@@ -1,0 +1,11 @@
+D:\Code\Challenges\Intermediate-sales-commission-365\C#\CommissionCalculatorCSharp\bin\Debug\netcoreapp2.1\CommissionCalculatorCSharp.deps.json
+D:\Code\Challenges\Intermediate-sales-commission-365\C#\CommissionCalculatorCSharp\bin\Debug\netcoreapp2.1\CommissionCalculatorCSharp.runtimeconfig.json
+D:\Code\Challenges\Intermediate-sales-commission-365\C#\CommissionCalculatorCSharp\bin\Debug\netcoreapp2.1\CommissionCalculatorCSharp.runtimeconfig.dev.json
+D:\Code\Challenges\Intermediate-sales-commission-365\C#\CommissionCalculatorCSharp\bin\Debug\netcoreapp2.1\CommissionCalculatorCSharp.dll
+D:\Code\Challenges\Intermediate-sales-commission-365\C#\CommissionCalculatorCSharp\bin\Debug\netcoreapp2.1\CommissionCalculatorCSharp.pdb
+D:\Code\Challenges\Intermediate-sales-commission-365\C#\CommissionCalculatorCSharp\obj\Debug\netcoreapp2.1\CommissionCalculatorCSharp.csprojAssemblyReference.cache
+D:\Code\Challenges\Intermediate-sales-commission-365\C#\CommissionCalculatorCSharp\obj\Debug\netcoreapp2.1\CommissionCalculatorCSharp.csproj.CoreCompileInputs.cache
+D:\Code\Challenges\Intermediate-sales-commission-365\C#\CommissionCalculatorCSharp\obj\Debug\netcoreapp2.1\CommissionCalculatorCSharp.AssemblyInfoInputs.cache
+D:\Code\Challenges\Intermediate-sales-commission-365\C#\CommissionCalculatorCSharp\obj\Debug\netcoreapp2.1\CommissionCalculatorCSharp.AssemblyInfo.cs
+D:\Code\Challenges\Intermediate-sales-commission-365\C#\CommissionCalculatorCSharp\obj\Debug\netcoreapp2.1\CommissionCalculatorCSharp.dll
+D:\Code\Challenges\Intermediate-sales-commission-365\C#\CommissionCalculatorCSharp\obj\Debug\netcoreapp2.1\CommissionCalculatorCSharp.pdb
